@@ -2,7 +2,7 @@
 
 A personal portfolio website for **Riya**, a Full-Stack Developer, built to showcase projects, skills, and contact information.
 
-🔗 **Live Site:** [riyacreatess.vercel.app]([stalwart-paprenjak-95fafd.netlify.app](https://stalwart-paprenjak-95fafd.netlify.app/))
+🔗 **Live Site:** [Portfolio]([stalwart-paprenjak-95fafd.netlify.app](https://stalwart-paprenjak-95fafd.netlify.app/))
 
 ---
 
@@ -20,13 +20,6 @@ A personal portfolio website for **Riya**, a Full-Stack Developer, built to show
 - **Google Apps Script** — Form to Google Sheets integration
 - **Netlify** — Deployment & hosting
 
-## Getting Started
-```bash
-git clone https://github.com/riyacreatess/portfolio.git
-cd portfolio
-npm install
-npm run dev
-```
 
 ## Folder Structure
 ```
