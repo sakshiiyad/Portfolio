@@ -2,7 +2,7 @@
 
 A personal portfolio website for **Riya**, a Full-Stack Developer, built to showcase projects, skills, and contact information.
 
-🔗 **Live Site:** [Portfolio]([stalwart-paprenjak-95fafd.netlify.app](https://stalwart-paprenjak-95fafd.netlify.app/))
+🔗 **Live Site:** [Portfolio](https://stalwart-paprenjak-95fafd.netlify.app/)
 
 ---
 
